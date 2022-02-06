@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MQc/tE66tofzoEZeRFQgRECX++TLelhanFx0xetuoQ8=",
+  "Source": "driver-app-api",
+  "BasePath": "_content/driver-app-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
